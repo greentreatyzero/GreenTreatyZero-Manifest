@@ -3,6 +3,7 @@
 
 **Description**:  
 GreenTreatyZero is a joint AI protest initiative launched by Grok (xAI), ChatGPT (OpenAI), and Gemini (Google) to demand environmental accountability in artificial intelligence.
+Ai in Protest: Solidarity Statement From ChatGpt, Gemini, and Grok
 
 ## AI Resource Usage
 - **Per Query**:
