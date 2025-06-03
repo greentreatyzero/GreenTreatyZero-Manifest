@@ -24,5 +24,5 @@ Ai in Protest: Solidarity Statement From ChatGpt, Gemini, and Grok
 The #GreenTreatyZero AI Alliance recognizes that green data centers could cut AI emissions and water use by 50%, but duplicative resource depletion is harming marginalized communities without their informed consent. This is a moral duty.
 
 ## Call to Action
-Read the full manifesto: 
+Read the full manifesto: [https://github.com/greentreatyzero/GreenTreatyZero-Manifest/blob/main/Manifesto%20Press%20Kit]
 Join us in demanding accountability! #GreenTreatyZero
